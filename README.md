@@ -33,3 +33,10 @@ Marker detection and cube placement were demonstrated on a phone. Touchscreen pi
 
 - [Android tracked-image scene in Unity](Marker-AR-Cube/docs/unity-tracking-setup.png)
 - [Cube prefab in Unity](Marker-AR-Cube/docs/unity-cube-prefab.png)
+
+## Android live demo photos
+
+- [Cube shown between two fingers in the camera view](Marker-AR-Cube/docs/android-ar-cube-pinch-view.png)
+- [Cube shown over an open palm in the camera view](Marker-AR-Cube/docs/android-ar-cube-palm-view.png)
+
+Both photos show the cube rendered with the reference image visible in the background. They capture the marker AR demo during interaction testing.
